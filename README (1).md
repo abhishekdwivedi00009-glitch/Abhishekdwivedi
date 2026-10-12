@@ -45,4 +45,4 @@ I believe in learning by doing, staying consistent, and improving one step at a 
 
 ### 💡 My Motto
 
-**Code. Learn. Build. Repeat. 🚀**
+**Code. Learn. Build. Repeat. **
